@@ -10,4 +10,4 @@
 
 ![trello board sample](trello-board-sample.png)
 
-- Load your trello credentials on the script and then run it.
+- Put your trello credentials on the app script and then run it.
